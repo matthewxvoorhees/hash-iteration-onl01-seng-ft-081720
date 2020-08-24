@@ -22,4 +22,4 @@ def age_appropriate_birthday(birthday_kids)
 end
 end
 
-age_appropriate_birthday
+print age_appropriate_birthday
